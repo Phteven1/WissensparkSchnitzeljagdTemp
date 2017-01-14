@@ -88,8 +88,8 @@
       {
           "id": 4,
           "coordinate": {
-              "latitude": 51.2462103,
-              "longitude": 6.7911
+              "latitude": 51.246239,
+              "longitude": 6.79059
           },
           "question": {
             "type": "single-choice",
