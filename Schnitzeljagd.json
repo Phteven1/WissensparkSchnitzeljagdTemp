@@ -1,0 +1,150 @@
+{
+  "schnitzeljagd":{
+    "name": "Wissenspark Tag der offenen Tür",
+    "schnitzel": [{
+          "id": 0,
+          "coordinate": {
+              "latitude": 51.2462300,
+              "longitude": 6.7906900
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Dieser Pilz ist roh unverträglich, aber gekocht sehr schmackhaft. Um welchen handelt es sich?",
+            "choices": [
+              {
+                "id": 0,
+                "text": "der Fliegenpilz"
+              },
+              {
+                "id": 1,
+                "text": "der Champignon"
+              },
+              {
+                "id": 2,
+                "text": "der Flockenstielige Hexen-Röhrling"
+              },
+              {
+                "id": 3,
+                "text": "keinder davon"
+              }
+            ],
+            "solution": [ 2 ]
+          }
+      },
+      {
+          "id": 1,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79061
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Welche Blume, die auch als Symbol der Heilkunde fungiert, hält Kopernikus auf diesem Bild?",
+            "choices": [
+              {
+                "id": 0,
+                "text": "Maiglöckchen"
+              },
+              {
+                "id": 1,
+                "text": "Arnika"
+              },
+              {
+                "id": 2,
+                "text": "Johanniskraut"
+              },
+              {
+                "id": 3,
+                "text": "Holunder"
+              }
+            ],
+            "solution": [ 0 ]
+          }
+      },
+      {
+          "id": 2,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79069
+          },
+          "question": {
+            "type": "free-text",
+            "text": "Welcher Vogel singt hier?",
+            "solution": "Rotkehlchen"
+          }
+      },
+      {
+          "id": 3,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79069
+          },
+          "question": {
+            "type": "free-text",
+            "text": "Die Blätter dieses Baumes sind etwa 7 bis 12cm lang und bis 8cm breit. Sie fühlen sich lederig an, sind oberseits kräftig grün, leicht glänzend, unterseits heller und auf den Blattnerven leicht behaart. An beiden Seiten des Blattes befinden sich 5 bis 7 rundliche, glattrandigen Lappen. Welcher Baum wird hier anhand der Blätter beschrieben?",
+            "solution": "Stiel-Eiche"
+          }
+      },
+      {
+          "id": 4,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79061
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Zu welchem Vogel gehört dieses Gefieder?",
+            "choices": [
+              {
+                "id": 0,
+                "text": "Buchfink"
+              },
+              {
+                "id": 1,
+                "text": "Blaumeise"
+              },
+              {
+                "id": 2,
+                "text": "Eichelhäher"
+              },
+              {
+                "id": 3,
+                "text": "Kleiber"
+              }
+            ],
+            "solution": [ 2 ]
+          }
+      },
+      {
+          "id": 5,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79061
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Welches Tier taucht in Fabeln als schlauer, kluger Swineigel auf?",
+            "choices": [
+              {
+                "id": 0,
+                "text": "Fuchs"
+              },
+              {
+                "id": 1,
+                "text": "Dachs"
+              },
+              {
+                "id": 2,
+                "text": "Hase"
+              },
+              {
+                "id": 3,
+                "text": "Igel"
+              }
+            ],
+            "solution": [ 3 ]
+          }
+      }
+    ]
+  }
+}
