@@ -4,8 +4,8 @@
     "schnitzel": [{
           "id": 0,
           "coordinate": {
-              "latitude": 51.2462300,
-              "longitude": 6.7906900
+              "latitude": 51.246610,
+              "longitude": 6.791107
           },
           "question": {
             "type": "single-choice",
@@ -34,8 +34,8 @@
       {
           "id": 1,
           "coordinate": {
-              "latitude": 51.24624,
-              "longitude": 6.7906930
+              "latitude": 51.247028,
+              "longitude": 6.790817
           },
           "question": {
             "type": "single-choice",
@@ -64,8 +64,8 @@
       {
           "id": 2,
           "coordinate": {
-              "latitude": 51.24625,
-              "longitude": 6.7906950
+              "latitude": 51.247089,
+              "longitude": 6.791310
           },
           "question": {
             "type": "free-text",
@@ -76,8 +76,8 @@
       {
           "id": 3,
           "coordinate": {
-              "latitude": 51.24626,
-              "longitude": 6.7906980
+              "latitude": 51.246914,
+              "longitude": 6.792043
           },
           "question": {
             "type": "free-text",
@@ -88,8 +88,8 @@
       {
           "id": 4,
           "coordinate": {
-              "latitude": 51.24627,
-              "longitude": 6.7907010
+              "latitude": 51.247584,
+              "longitude": 6.791249
           },
           "question": {
             "type": "single-choice",
@@ -118,8 +118,8 @@
       {
           "id": 5,
           "coordinate": {
-              "latitude": 51.24628,
-              "longitude": 6.7906880
+              "latitude": 51.247816,
+              "longitude": 6.792868
           },
           "question": {
             "type": "single-choice",
@@ -148,8 +148,8 @@
       {
           "id": 6,
           "coordinate": {
-              "latitude": 51.24621,
-              "longitude": 6.7906840
+              "latitude": 51.246828,
+              "longitude": 6.792446
           },
           "question": {
             "type": "single-choice",
@@ -182,8 +182,8 @@
       {
           "id": 7,
           "coordinate": {
-              "latitude": 51.24620,
-              "longitude": 6.7906740
+              "latitude": 51.247243,
+              "longitude": 6.792648
           },
           "question": {
             "type": "single-choice",
@@ -216,8 +216,8 @@
       {
           "id": 8,
           "coordinate": {
-              "latitude": 51.24619,
-              "longitude": 6.7906650
+              "latitude": 51.247082,
+              "longitude": 6.793437
           },
           "question": {
             "type": "multiple-choice",
@@ -246,8 +246,8 @@
       {
           "id": 9,
           "coordinate": {
-              "latitude": 51.24629,
-              "longitude": 6.7906400
+              "latitude": 51.247558,
+              "longitude": 6.792034
           },
           "question": {
             "type": "single-choice",
