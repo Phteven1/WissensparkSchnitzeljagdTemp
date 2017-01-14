@@ -144,6 +144,134 @@
             ],
             "solution": [ 3 ]
           }
+      },
+      {
+          "id": 6,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79061
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Was ist die Krause Glucke? Ist es ...",
+            "choices": [
+              {
+                "id": 0,
+                "text": "eine Bodendeckerpflanze"
+              },
+              {
+                "id": 1,
+                "text": "eine Vogelart"
+              },
+              {
+                "id": 2,
+                "text": "ein Pilz"
+              },
+              {
+                "id": 3,
+                "text": "eine Blume"
+              },
+              {
+                "id": 4,
+                "text": "ein Schmetterling"
+              }
+            ],
+            "solution": [ 2 ]
+          }
+      },
+      {
+          "id": 7,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79061
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Zu welchem Bauch/Strauch gehörgen diese Blätter",
+            "choices": [
+              {
+                "id": 0,
+                "text": "Buche"
+              },
+              {
+                "id": 1,
+                "text": "Birke"
+              },
+              {
+                "id": 2,
+                "text": "Haselnuss"
+              },
+              {
+                "id": 3,
+                "text": "Erle"
+              },
+              {
+                "id": 4,
+                "text": "Eiche"
+              }
+            ],
+            "solution": [ 1 ]
+          }
+      },
+      {
+          "id": 8,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79069
+          },
+          "question": {
+            "type": "multiple-choice",
+            "text": "Welche der folgenden Pilze sind für Menschen essbar?",
+            "choices": [
+              {
+                "id": 0,
+                "text": "Knollenblätterpilz"
+              },
+              {
+                "id": 1,
+                "text": "Maronenröhrling"
+              },
+              {
+                "id": 2,
+                "text": "Pantherpilz"
+              },
+              {
+                "id": 3,
+                "text": "Krause Glucke"
+              }
+            ],
+            "solution": [ 1, 3 ]
+          }
+      },
+      {
+          "id": 9,
+          "coordinate": {
+              "latitude": 51.24629,
+              "longitude": 6.79061
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Wie heißt dieser Vogel?",
+            "choices": [
+              {
+                "id": 0,
+                "text": "Amsel"
+              },
+              {
+                "id": 1,
+                "text": "Eichelhäher"
+              },
+              {
+                "id": 2,
+                "text": "Buchfink"
+              },
+              {
+                "id": 3,
+                "text": "Kleiber"
+              }
+            ],
+            "solution": [ 2 ]
+          }
       }
     ]
   }
