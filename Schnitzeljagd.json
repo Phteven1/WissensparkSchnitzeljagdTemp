@@ -82,7 +82,11 @@
           "question": {
             "type": "free-text",
             "text": "Die Blätter dieses Baumes sind etwa 7 bis 12cm lang und bis 8cm breit. Sie fühlen sich lederig an, sind oberseits kräftig grün, leicht glänzend, unterseits heller und auf den Blattnerven leicht behaart. An beiden Seiten des Blattes befinden sich 5 bis 7 rundliche, glattrandigen Lappen. Welcher Baum wird hier anhand der Blätter beschrieben?",
-            "solution": "Stiel-Eiche"
+            "solution": "Stiel-Eiche",
+            "hint": {
+              "picture": "./Images/Stiel-Eiche.png",
+              "audio": null
+            }
           }
       },
       {
