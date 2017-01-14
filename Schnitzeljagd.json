@@ -34,8 +34,8 @@
       {
           "id": 1,
           "coordinate": {
-              "latitude": 51.24629,
-              "longitude": 6.79061
+              "latitude": 51.2462315,
+              "longitude": 6.7906930
           },
           "question": {
             "type": "single-choice",
@@ -64,8 +64,8 @@
       {
           "id": 2,
           "coordinate": {
-              "latitude": 51.24629,
-              "longitude": 6.79069
+              "latitude": 51.2462330,
+              "longitude": 6.7906950
           },
           "question": {
             "type": "free-text",
@@ -76,8 +76,8 @@
       {
           "id": 3,
           "coordinate": {
-              "latitude": 51.2462311,
-              "longitude": 6.790639
+              "latitude": 51.2462350,
+              "longitude": 6.7906980
           },
           "question": {
             "type": "free-text",
@@ -88,8 +88,8 @@
       {
           "id": 4,
           "coordinate": {
-              "latitude": 51.246239,
-              "longitude": 6.79059
+              "latitude": 51.2462390,
+              "longitude": 6.7907010
           },
           "question": {
             "type": "single-choice",
@@ -118,8 +118,8 @@
       {
           "id": 5,
           "coordinate": {
-              "latitude": 51.2462344,
-              "longitude": 6.79065
+              "latitude": 51.2462480,
+              "longitude": 6.7906880
           },
           "question": {
             "type": "single-choice",
@@ -148,8 +148,8 @@
       {
           "id": 6,
           "coordinate": {
-              "latitude": 51.2462099,
-              "longitude": 6.7901
+              "latitude": 51.2462440,
+              "longitude": 6.7906840
           },
           "question": {
             "type": "single-choice",
@@ -182,8 +182,8 @@
       {
           "id": 7,
           "coordinate": {
-              "latitude": 51.24625,
-              "longitude": 6.7915
+              "latitude": 51.2462260,
+              "longitude": 6.7906740
           },
           "question": {
             "type": "single-choice",
@@ -216,8 +216,8 @@
       {
           "id": 8,
           "coordinate": {
-              "latitude": 51.24630,
-              "longitude": 6.7901
+              "latitude": 51.2462220,
+              "longitude": 6.7906650
           },
           "question": {
             "type": "multiple-choice",
@@ -246,8 +246,8 @@
       {
           "id": 9,
           "coordinate": {
-              "latitude": 51.246195,
-              "longitude": 6.7908
+              "latitude": 51.2462175,
+              "longitude": 6.7906400
           },
           "question": {
             "type": "single-choice",
