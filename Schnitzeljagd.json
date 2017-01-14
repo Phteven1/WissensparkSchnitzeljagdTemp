@@ -34,7 +34,7 @@
       {
           "id": 1,
           "coordinate": {
-              "latitude": 51.2462315,
+              "latitude": 51.24624,
               "longitude": 6.7906930
           },
           "question": {
@@ -64,7 +64,7 @@
       {
           "id": 2,
           "coordinate": {
-              "latitude": 51.2462330,
+              "latitude": 51.24625,
               "longitude": 6.7906950
           },
           "question": {
@@ -76,7 +76,7 @@
       {
           "id": 3,
           "coordinate": {
-              "latitude": 51.2462350,
+              "latitude": 51.24626,
               "longitude": 6.7906980
           },
           "question": {
@@ -88,7 +88,7 @@
       {
           "id": 4,
           "coordinate": {
-              "latitude": 51.2462390,
+              "latitude": 51.24627,
               "longitude": 6.7907010
           },
           "question": {
@@ -118,7 +118,7 @@
       {
           "id": 5,
           "coordinate": {
-              "latitude": 51.2462480,
+              "latitude": 51.24628,
               "longitude": 6.7906880
           },
           "question": {
@@ -148,7 +148,7 @@
       {
           "id": 6,
           "coordinate": {
-              "latitude": 51.2462440,
+              "latitude": 51.24621,
               "longitude": 6.7906840
           },
           "question": {
@@ -182,7 +182,7 @@
       {
           "id": 7,
           "coordinate": {
-              "latitude": 51.2462260,
+              "latitude": 51.24620,
               "longitude": 6.7906740
           },
           "question": {
@@ -216,7 +216,7 @@
       {
           "id": 8,
           "coordinate": {
-              "latitude": 51.2462220,
+              "latitude": 51.24619,
               "longitude": 6.7906650
           },
           "question": {
@@ -246,7 +246,7 @@
       {
           "id": 9,
           "coordinate": {
-              "latitude": 51.2462175,
+              "latitude": 51.24629,
               "longitude": 6.7906400
           },
           "question": {
