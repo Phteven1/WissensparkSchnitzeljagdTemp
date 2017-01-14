@@ -89,7 +89,7 @@
           "id": 4,
           "coordinate": {
               "latitude": 51.2462103,
-              "longitude": 6.79010
+              "longitude": 6.7910
           },
           "question": {
             "type": "single-choice",
@@ -187,7 +187,7 @@
           },
           "question": {
             "type": "single-choice",
-            "text": "Zu welchem Bauch/Strauch gehörgen diese Blätter",
+            "text": "Zu welchem Bauch/Strauch gehören diese Blätter?",
             "choices": [
               {
                 "id": 0,
