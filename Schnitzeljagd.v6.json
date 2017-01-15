@@ -1,0 +1,318 @@
+{
+  "schnitzeljagd":{
+    "name": "Wissenspark Tag der offenen Tür",
+    "schnitzel": [{
+          "id": 0,
+          "coordinate": {
+              "latitude": 51.246610,
+              "longitude": 6.791107
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Dieser Pilz ist roh unverträglich, aber gekocht sehr schmackhaft. Um welchen handelt es sich?",
+            "hint": {
+              "picture": null,
+              "audio": null
+            },
+            "choices": [
+              {
+                "id": 0,
+                "text": "der Fliegenpilz"
+              },
+              {
+                "id": 1,
+                "text": "der Champignon"
+              },
+              {
+                "id": 2,
+                "text": "der Flockenstielige Hexen-Röhrling"
+              },
+              {
+                "id": 3,
+                "text": "keiner davon"
+              }
+            ],
+            "solution": [ 2 ]
+          }
+      },
+      {
+          "id": 1,
+          "coordinate": {
+              "latitude": 51.247028,
+              "longitude": 6.790817
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Welche Blume, die auch als Symbol der Heilkunde fungiert, hält Kopernikus auf diesem Bild?",
+            "hint": {
+              "picture": "https://raw.githubusercontent.com/Phteven1/WissensparkSchnitzeljagdTemp/master/Images/Maigl%C3%B6ckchen.jpg",
+              "audio": null
+            },
+            "choices": [
+              {
+                "id": 0,
+                "text": "Maiglöckchen"
+              },
+              {
+                "id": 1,
+                "text": "Arnika"
+              },
+              {
+                "id": 2,
+                "text": "Johanniskraut"
+              },
+              {
+                "id": 3,
+                "text": "Holunder"
+              }
+            ],
+            "solution": [ 0 ]
+          }
+      },
+      {
+          "id": 2,
+          "coordinate": {
+              "latitude": 51.247089,
+              "longitude": 6.791310
+          },
+          "question": {
+            "type": "free-text",
+            "text": "Welcher Vogel singt hier?",
+            "hint": {
+              "picture": null,
+              "audio": "https://raw.githubusercontent.com/Phteven1/WissensparkSchnitzeljagdTemp/master/Audio/rotkehlchen.mp3"
+            },
+            "solution": "Rotkehlchen"
+          }
+      },
+      {
+          "id": 3,
+          "coordinate": {
+              "latitude": 51.246914,
+              "longitude": 6.792043
+          },
+          "question": {
+            "type": "free-text",
+            "text": "Die Blätter dieses Baumes sind etwa 7 bis 12cm lang und bis 8cm breit. Sie fühlen sich lederig an, sind oberseits kräftig grün, leicht glänzend, unterseits heller und auf den Blattnerven leicht behaart. An beiden Seiten des Blattes befinden sich 5 bis 7 rundliche, glattrandigen Lappen. Welcher Baum wird hier anhand der Blätter beschrieben?",
+            "solution": "Stiel-Eiche",
+            "hint": {
+              "picture": "https://raw.githubusercontent.com/Phteven1/WissensparkSchnitzeljagdTemp/master/Images/Stiel-Eiche.png",
+              "audio": null
+            }
+          }
+      },
+      {
+          "id": 4,
+          "coordinate": {
+              "latitude": 51.247584,
+              "longitude": 6.791249
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Zu welchem Vogel gehört dieses Gefieder?",
+            "hint": {
+              "picture": "https://raw.githubusercontent.com/Phteven1/WissensparkSchnitzeljagdTemp/master/Images/Eichelh%C3%A4her.jpg",
+              "audio": null
+            },
+            "choices": [
+              {
+                "id": 0,
+                "text": "Buchfink"
+              },
+              {
+                "id": 1,
+                "text": "Blaumeise"
+              },
+              {
+                "id": 2,
+                "text": "Eichelhäher"
+              },
+              {
+                "id": 3,
+                "text": "Kleiber"
+              }
+            ],
+            "solution": [ 2 ]
+          }
+      },
+      {
+          "id": 5,
+          "coordinate": {
+              "latitude": 51.247816,
+              "longitude": 6.792868
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Welches Tier taucht in Fabeln als schlauer, kluger Swineigel auf?",
+            "hint": {
+              "picture": null,
+              "audio": null
+            },
+            "choices": [
+              {
+                "id": 0,
+                "text": "Fuchs"
+              },
+              {
+                "id": 1,
+                "text": "Dachs"
+              },
+              {
+                "id": 2,
+                "text": "Hase"
+              },
+              {
+                "id": 3,
+                "text": "Igel"
+              }
+            ],
+            "solution": [ 3 ]
+          }
+      },
+      {
+          "id": 6,
+          "coordinate": {
+              "latitude": 51.246828,
+              "longitude": 6.792446
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Was ist die Krause Glucke? Ist es ...",
+            "hint": {
+              "picture": null,
+              "audio": null
+            },
+            "choices": [
+              {
+                "id": 0,
+                "text": "eine Bodendeckerpflanze"
+              },
+              {
+                "id": 1,
+                "text": "eine Vogelart"
+              },
+              {
+                "id": 2,
+                "text": "ein Pilz"
+              },
+              {
+                "id": 3,
+                "text": "eine Blume"
+              },
+              {
+                "id": 4,
+                "text": "ein Schmetterling"
+              }
+            ],
+            "solution": [ 2 ]
+          }
+      },
+      {
+          "id": 7,
+          "coordinate": {
+              "latitude": 51.247243,
+              "longitude": 6.792648
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Zu welchem Bauch/Strauch gehören diese Blätter?",
+            "hint": {
+              "picture": "https://raw.githubusercontent.com/Phteven1/WissensparkSchnitzeljagdTemp/master/Images/Birkenbl%C3%A4tter.jpg",
+              "audio": null
+            },
+            "choices": [
+              {
+                "id": 0,
+                "text": "Buche"
+              },
+              {
+                "id": 1,
+                "text": "Birke"
+              },
+              {
+                "id": 2,
+                "text": "Haselnuss"
+              },
+              {
+                "id": 3,
+                "text": "Erle"
+              },
+              {
+                "id": 4,
+                "text": "Eiche"
+              }
+            ],
+            "solution": [ 1 ]
+          }
+      },
+      {
+          "id": 8,
+          "coordinate": {
+              "latitude": 51.247082,
+              "longitude": 6.793437
+          },
+          "question": {
+            "type": "multiple-choice",
+            "text": "Welche der folgenden Pilze sind für Menschen essbar?",
+            "hint": {
+              "picture": null,
+              "audio": null
+            },
+            "choices": [
+              {
+                "id": 0,
+                "text": "Knollenblätterpilz"
+              },
+              {
+                "id": 1,
+                "text": "Maronenröhrling"
+              },
+              {
+                "id": 2,
+                "text": "Pantherpilz"
+              },
+              {
+                "id": 3,
+                "text": "Krause Glucke"
+              }
+            ],
+            "solution": [ 1, 3 ]
+          }
+      },
+      {
+          "id": 9,
+          "coordinate": {
+              "latitude": 51.247558,
+              "longitude": 6.792034
+          },
+          "question": {
+            "type": "single-choice",
+            "text": "Wie heißt dieser Vogel?",
+            "hint": {
+              "picture": "https://raw.githubusercontent.com/Phteven1/WissensparkSchnitzeljagdTemp/master/Images/gbmiagpnegbmgfon.png",
+              "audio": null
+            },
+            "choices": [
+              {
+                "id": 0,
+                "text": "Amsel"
+              },
+              {
+                "id": 1,
+                "text": "Eichelhäher"
+              },
+              {
+                "id": 2,
+                "text": "Buchfink"
+              },
+              {
+                "id": 3,
+                "text": "Kleiber"
+              }
+            ],
+            "solution": [ 2 ]
+          }
+      }
+    ]
+  }
+}
